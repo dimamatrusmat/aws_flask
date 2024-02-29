@@ -2,5 +2,4 @@
 Dockerfile
 picaso.pem
 file.txt
-keys/bitrix.json
-keys/key1.json
+*.json
